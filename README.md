@@ -1,4 +1,4 @@
-## This repository contains some examples of appending dataframes to a dataframe as well as of concatenating dataframes 
+## This repository contains some examples of appending dataframes to a dataframe as well as of concatenating dataframes using the pandas library  
 
 * included data files 
   - names1881.csv 
